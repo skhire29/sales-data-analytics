@@ -7,5 +7,13 @@ CRM tools generate a good amount of data which can be used for the analysis of s
 We are a company that sells Electrical/Electronics and Mechanical products including - Electric Motor, Generator, Battery, Gear, etc.
 In this project we are analyzing the sales of our products and the issues registered by our customers. 
 
+Here are some use cases with screenshot of streamlit app
+- Account rating each month \
+  This gives us the idea of how account rating has changed over the year \
+  account can be rated - Hot, Warm or Cold 
+![alt text](https://github.com/skhire29/sales-data-analytics/blob/main/assets/account_rating_each_month_1.png)
 
 
+- Leads converted \
+  This gives us the idea of how account rating has changed over the year \
+![alt text](https://github.com/skhire29/sales-data-analytics/blob/main/assets/leads_conv_1.png)
