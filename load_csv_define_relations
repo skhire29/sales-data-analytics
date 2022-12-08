@@ -1,0 +1,199 @@
+# loading data files
+
+MATCH (n)
+DETACH DELETE n;
+
+LOAD CSV WITH HEADERS FROM 'file:///account.csv' as line 
+merge
+ (a:Account {    
+        account_id:line.account_id,
+        account_name:line.account_name,
+        account_rating:line.account_rating,
+        account_type:line.account_type,
+        annual_revenue:coalesce(line.annual_revenue,''),
+        billing_city:coalesce(line.billing_city,''),
+        billing_country:coalesce(line.billing_country,''),
+        billing_state:coalesce(line.billing_state,''),
+        billing_street:coalesce(line.billing_street,''),
+        billing_zip:coalesce(line.billing_zip,''),
+        clean_status:line.clean_status,
+        customer_priority:line.customer_priority,
+        employees:coalesce(line.employees,''),
+        number_of_locations:line.number_of_locations,
+                
+    } );
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///contact.csv' as row 
+merge 
+(c:Contact
+ {
+   contact_id:row.contact_id,
+   account_id:coalesce(row.account_id,''),
+   department:coalesce(row.department,''),    
+   email:coalesce(row.email,''),
+   email_bounced_date:coalesce(row.email_bounced_date,''),
+   email_bounced_reason:coalesce(row.email_bounced_reason,''),
+   first_name:coalesce(row.first_name,''),
+   last_name:coalesce(row.last_name,''),
+   full_name:coalesce(row.full_name,''),
+   is_email_bounced:coalesce(row.is_email_bounced,''),
+   lead_source:coalesce(row.lead_source,''),
+   level:coalesce(row.level,'') 
+} );
+
+
+LOAD CSV WITH HEADERS FROM 'file:///case.csv' as row 
+merge 
+(cs:Case 
+     { 
+       case_id:row.contact_id, 
+       account_id:row.account_id,
+       case_number:coalesce(row.case_number,''), 
+       case_origin:coalesce(row.case_origin,''), 
+       case_reason:coalesce(row.case_reason,''),
+       case_type:coalesce(row.case_type,''),
+       closed:coalesce(row.closed,''),
+       closed_date:coalesce(row.closed_date,''),
+       contact_email:coalesce(row.contact_email,''),
+       contact_id:coalesce(row.contact_id,''),
+       contact_phone:coalesce(row.contact_phone,''),
+       created_date:coalesce(row.created_date,''),
+       escalated:coalesce(row.escalated,''),
+       potential_liability:coalesce(row.potential_liability,''),
+       priority:coalesce(row.priority,''),
+       product2:coalesce(row.product2,''),
+       subject:coalesce(row.subject,''),
+       status:coalesce(row.status,''),
+       description:coalesce(row.description,'')
+     } 
+);
+
+
+LOAD CSV WITH HEADERS FROM 'file:///opportunity.csv' as line 
+merge
+(
+  o:Opportunity {  
+    opportunity_id:coalesce(line.opportunity_id,''),
+    account_id:coalesce(line.account_id,''),
+    amount:coalesce(line.amount,''),
+    close_date:coalesce(line.close_date,''),
+    closed:coalesce(line.closed,''),
+    contact_id:coalesce(line.contact_id,''),
+    created_date:coalesce(line.created_date,''),
+    deleted:coalesce(line.deleted,''),
+    delivery_installation_status:coalesce(line.delivery_installation_status,''),
+    description:coalesce(line.description,''),
+    expected_amount:coalesce(line.expected_amount,''),
+    fiscal_period:coalesce(line.fiscal_period,''),
+    fiscal_quarter:coalesce(line.fiscal_quarter,''),
+    fiscal_year:coalesce(line.fiscal_year,''),
+    forecast_category:coalesce(line.forecast_category,''),
+    has_line_item:coalesce(line.has_line_item,''),
+    has_open_activity:coalesce(line.has_open_activity,''),
+    has_overdue_task:coalesce(line.has_overdue_task,''),
+    last_activity:coalesce(line.last_activity,''),
+    lead_source:coalesce(line.lead_source,''),
+    main_competitor:coalesce(line.main_competitor,''),
+    name:coalesce(line.name,''),
+    opportunity_type:coalesce(line.opportunity_type,''),
+    probability:coalesce(line.probability,''),
+    quantity:coalesce(line.quantity,''),
+    stage:coalesce(line.stage,''),
+    won:coalesce(line.won,'')
+
+} );
+
+
+LOAD CSV WITH HEADERS FROM 'file:///opportunity_line_item.csv' as line 
+merge
+(
+  ol:Opportunity_line_item {  
+
+    line_item_id:line.line_item_id,
+    created_date:line.created_date,
+    deleted:line.deleted,
+    list_price:line.list_price,
+    opportunity_id:line.opportunity_id,
+    opportunity_product_name:line.opportunity_product_name,
+    price_book_entry_id:line.price_book_entry_id,
+    product_code:coalesce(line.product_code,''),
+    product_id:coalesce(line.product_id,''),
+    quantity:coalesce(line.quantity,''),
+    sales_price :coalesce(line.sales_price,''),
+    total_price:coalesce(line.total_price,'')
+
+} );
+
+
+LOAD CSV WITH HEADERS FROM 'file:///product.csv' as line 
+merge
+(
+  p:Product {  
+
+  product_id:line.product_id,
+  active:line.active,
+  archived:line.archived,
+  created_date:line.created_date,
+  deleted:line.deleted,
+  product_code:coalesce(line.product_code,''),
+  product_description:coalesce(line.product_description,''),
+  product_family: line.product_family,
+  product_name:line.product_name
+
+} );
+
+
+LOAD CSV WITH HEADERS FROM 'file:///lead.csv' as line 
+merge
+(
+  l:Lead {  
+    lead_id: line.lead_id,
+    clean_status: line.clean_status,
+    company: line.company,  
+    converted: line.converted,
+    converted_account_id:coalesce(line.converted_account_id,''),
+    converted_contact_id: coalesce(line.converted_contact_id,''),
+    converted_date: coalesce(line.converted_date,''),
+    converted_opportunity_id: coalesce(line.converted_opportunity_id,''),
+    country:coalesce(line.country,''),
+    email: coalesce(line.email,''),
+    email_bounced_date: coalesce(line.email_bounced_date,''),
+    email_bounced_reason: coalesce(line.email_bounced_reason,''),
+    employees: coalesce(line.employees,''),
+    first_name: coalesce(line.first_name,''),
+    last_name: coalesce(line.last_name,''),
+    full_name: coalesce(line.full_name,''),
+    industry: coalesce(line.industry,''),
+    lead_source: coalesce(line.lead_source,''),
+    mobile_phone: coalesce(line.mobile_phone,''),
+    number_of_locations: coalesce(line.number_of_locations,''),
+    phone: coalesce(line.phone,''),
+    product_interest:coalesce(line.product_interest,''),
+    rating: coalesce(line.rating,''),
+    state: coalesce(line.state,''),
+    status: coalesce(line.status,''),
+    street: coalesce(line.street,''),
+    title: coalesce(line.title,''),
+    website:coalesce(line.website,''),
+    zip_code:coalesce(line.zip_code,'')
+} );
+
+
+# Relationships
+
+match  (ol:Opportunity_line_item), (p:Product)  where ol.product_id = p.product_id
+merge (p)-[r5:_is_part_of]->(ol)
+
+match  (o:Opportunity), (ol:Opportunity_line_item)  where o.opportunity_id = ol.opportunity_id
+merge (o)-[r4:has_line_items]->(ol)
+
+match (a:Account), (o:Opportunity) where o.account_id = a.account_id
+merge (a)-[r3:has_opportunities]->(o)
+
+match (cs:Case), (a:Account) where cs.account_id = a.account_id
+merge (a)-[r2:has_cases]->(cs);
+
+match (cs:Case), (p:Product) where cs.product2 = p.product_id
+merge (cs)-[r2:is_a_case_on]->(p);
