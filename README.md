@@ -15,5 +15,5 @@ Here are some use cases with screenshot of streamlit app
 
 
 - Leads converted \
-  This gives us the idea of how account rating has changed over the year \
+  This gives us the idea of lead conversion into accounts \
 ![alt text](https://github.com/skhire29/sales-data-analytics/blob/main/assets/leads_conv_1.png)
