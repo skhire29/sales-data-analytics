@@ -1,0 +1,41 @@
+product_id,active,archived,created_date,deleted,product_code,product_description,product_family,product_name
+01t5h000009BDHiAAO,true,false,11/26/2022T00:20:15.000Z,false,GE002,,Gear,Gear Shaft
+01t5h000009BDHnAAO,true,false,11/26/2022T00:20:51.000Z,false,BA001,,Battery,Battery
+01t5h000009BDHJAA4,true,false,11/26/2022T00:15:45.000Z,false,EM001,,Electric Motor,Field Magnet
+01t5h000009BDHKAA4,true,false,11/26/2022T00:19:51.000Z,false,GE001,,Gear,Gear Box
+01t5h000009BDHdAAO,true,false,11/26/2022T00:17:20.000Z,false,EM005,,Electric Motor,Axle
+01t5h000009BDHeAAO,true,false,11/26/2022T00:21:06.000Z,false,BA002,,Battery,Battery Plates
+01t5h000009BDHTAA4,true,false,11/26/2022T00:16:44.000Z,false,EM003,,Electric Motor,Commutator
+01t5h000009BDHOAA4,true,false,11/26/2022T00:16:03.000Z,false,EC002,,Electric Motor,Armature/Rotor
+01t5h000009BDHYAA4,true,false,11/26/2022T00:16:57.000Z,false,EM004,,Electric Motor,Brushes
+01t5h000009BDITAA4,true,false,11/26/2022T05:44:41.000Z,false,BA003,,Battery,Battery Anode
+01t5h000009BDIsAAO,true,false,11/26/2022T05:46:55.000Z,false,PU002,,Pump,Pump casing
+01t5h000006eYvKAAU,true,false,11/04/2022T02:42:50.000Z,false,RB003,Medium CloudyBot,Robot,Medium CloudyBot
+01t5h000006eYvLAAU,true,false,11/04/2022T02:42:50.000Z,false,RB005,Robotic Arm Assembly System,Robot,Robotic Arm Assembly System
+01t5h000006eYvMAAU,true,false,11/04/2022T02:42:50.000Z,false,RB008,Wheeled Assembly System,Robot,Wheeled Assembly System
+01t5h000006eYvOAAU,true,false,11/04/2022T02:42:50.000Z,false,RB001,Large CloudyBot,Robot,Large CloudyBot
+01t5h000006eYvPAAU,true,false,11/04/2022T02:42:50.000Z,false,RB006,Small CloudyBot,Robot,Small CloudyBot
+01t5h000006eYvQAAU,true,false,11/04/2022T02:42:50.000Z,false,RB002,Large RainbowBot,Robot,Large RainbowBot
+01t5h000006eYvRAAU,true,false,11/04/2022T02:42:50.000Z,false,RB004,Medium RainbowBot,Robot,Medium RainbowBot
+01t5h000006eYvSAAU,true,false,11/04/2022T02:42:50.000Z,false,RB007,Small RainbowBot,Robot,Small RainbowBot
+01t5h000006eYvTAAU,true,false,11/04/2022T02:42:50.000Z,false,GC1040,,Diesel Engine,GenWatt Diesel 200kW
+01t5h000006eYvUAAU,true,false,11/04/2022T02:42:50.000Z,false,GC1020,,Diesel Engine,GenWatt Diesel 10kW
+01t5h000006eYvbAAE,true,false,11/04/2022T02:42:50.000Z,false,GC1060,,Diesel Engine,GenWatt Diesel 1000kW
+01t5h000009BDInAAO,true,false,11/26/2022T05:46:27.000Z,false,PU001,,Pump,Pump motor
+01t5h000009BDIYAA4,true,false,11/26/2022T05:45:32.000Z,false,GR001,,Generator,Generator Spark plug
+01t5h000009BDIiAAO,false,false,11/26/2022T05:45:57.000Z,false,GR002,,Generator,Generator Engine
+01t5h000006eYvNAAU,true,false,11/04/2022T02:42:50.000Z,false,,Fixed-Base Assembly System,Other,Fixed-Base Assembly System
+01t5h000006eYvVAAU,true,false,11/04/2022T02:42:50.000Z,false,IN7080,,Other,Installation: Industrial - High
+01t5h000006eYvWAAU,true,false,11/04/2022T02:42:50.000Z,false,SL9040,,Other,SLA: Silver
+01t5h000006eYvXAAU,true,false,11/04/2022T02:42:50.000Z,false,GC3040,,Other,GenWatt Propane 500kW
+01t5h000006eYvYAAU,true,false,11/04/2022T02:42:50.000Z,false,SL9080,,Other,SLA: Platinum
+01t5h000006eYvZAAU,true,false,11/04/2022T02:42:50.000Z,false,GC3020,,Other,GenWatt Propane 100kW
+01t5h000006eYvaAAE,true,false,11/04/2022T02:42:50.000Z,false,GC3060,,Other,GenWatt Propane 1500kW
+01t5h000006eYvcAAE,true,false,11/04/2022T02:42:50.000Z,false,SL9020,,Other,SLA: Bronze
+01t5h000006eYvdAAE,true,false,11/04/2022T02:42:50.000Z,false,GC5040,,Other,GenWatt Gasoline 750kW
+01t5h000006eYveAAE,true,false,11/04/2022T02:42:50.000Z,false,IN7020,,Other,Installation: Portable
+01t5h000006eYvfAAE,true,false,11/04/2022T02:42:50.000Z,false,SL9060,,Other,SLA: Gold
+01t5h000006eYvgAAE,true,false,11/04/2022T02:42:50.000Z,false,GC5020,,Other,GenWatt Gasoline 300kW
+01t5h000006eYvhAAE,true,false,11/04/2022T02:42:50.000Z,false,IN7040,,Other,Installation: Industrial - Low
+01t5h000006eYviAAE,true,false,11/04/2022T02:42:50.000Z,false,GC5060,,Other,GenWatt Gasoline 2000kW
+01t5h000006eYvjAAE,true,false,11/04/2022T02:42:50.000Z,false,IN7060,,Other,Installation: Industrial - Medium

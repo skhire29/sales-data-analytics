@@ -1,0 +1,74 @@
+contact_id,account_id,assistant_name,asst_phone,birthdate,business_fax,business_phone,clean_status,created_date,deleted,department,email,email_bounced_date,email_bounced_reason,first_name,full_name,last_name,is_email_bounced,languages,lead_source,level,mobile_phone
+0035h00000pY6JIAA0,0015h000013m9LNAAY,,,10/16/1970,(512) 757-9000,(512) 757-6000,Pending,11/04/2022T02:42:50.000Z,FALSE,Procurement,rose@edge.com,,,Rose,Rose Gonzalez,Gonzalez,FALSE,English,Trade Show,Primary,(512) 757-9340
+0035h00000pY6JJAA0,0015h000013m9LNAAY,,,07/14/1949,(512) 757-9000,(512) 757-6000,Pending,11/04/2022T02:42:50.000Z,FALSE,Finance,sean@edge.com,,,Sean,Sean Forbes,Forbes,FALSE,English,Trade Show,Secondary,(512) 757-4561
+0035h00000pY6JKAA0,0015h000013m9LOAAY,,,,(336) 222-8000,(336) 222-7000,Pending,11/04/2022T02:42:50.000Z,FALSE,,jrogers@burlington.com,,,Jack,Jack Rogers,Rogers,FALSE,,Web,,
+0035h00000pY6JLAA0,0015h000013m9LPAAY,Jean Marie,(014) 427-4465,,(014) 427-4428,(014) 427-4427,Pending,11/04/2022T02:42:50.000Z,FALSE,Finance,pat@pyramid.net,,,Pat,Pat Stumuller,Stumuller,FALSE,"French, English",,Primary,(014) 454-6364
+0035h00000pY6JMAA0,0015h000013m9LQAAY,,,,,(785) 241-6200,Pending,11/04/2022T02:42:50.000Z,FALSE,Internal Operations,a_young@dickenson.com,,,Andy,Andy Young,Young,FALSE,English,Purchased List,Primary,(785) 265-5350
+0035h00000pY6JNAA0,0015h000013m9LRAAY,,,06/11/56,(312) 596-1500,(312) 596-1000,Pending,11/04/2022T02:42:50.000Z,FALSE,Finance,barr_tim@grandhotels.com,,,Tim,Tim Barr,Barr,FALSE,English,External Referral,Secondary,(312) 596-1230
+0035h00000pY6JOAA0,0015h000013m9LRAAY,,,08/23/1958,(312) 596-1500,(312) 596-1000,Pending,11/04/2022T02:42:50.000Z,FALSE,Facilities,bond_john@grandhotels.com,,,John,John Bond,Bond,FALSE,English,External Referral,Primary,(312) 596-1563
+0035h00000pY6JPAA0,0015h000013m9LSAAY,Audrey Haynes,(212) 842-5589,02/06/46,(212) 842-5501,(212) 842-5500,Pending,11/04/2022T02:42:50.000Z,FALSE,Production,spavlova@uog.com,,,Stella,Stella Pavlova,Pavlova,FALSE,English,Public Relations,Tertiary,(212) 842-5501
+0035h00000pY6JQAA0,0015h000013m9LSAAY,,,03/22/1963,(212) 842-5501,(212) 842-5500,Pending,11/04/2022T02:42:50.000Z,FALSE,Technology,lboyle@uog.com,,,Lauren,Lauren Boyle,Boyle,FALSE,English,Public Relations,Secondary,(212) 842-5611
+0035h00000pY6JRAA0,0015h000013m9LTAAY,Ron Sage,(503) 421-6782,09/23/1939,(503) 421-7801,(503) 421-7800,Pending,11/04/2022T02:42:50.000Z,FALSE,Operations,b.levy@expressl&t.net,,,Babara,Babara Levy,Levy,FALSE,English,Word of mouth,Primary,(503) 421-5451
+0035h00000pY6JSAA0,0015h000013m9LTAAY,,,01/17/1951,(503) 421-7801,(503) 421-7800,Pending,11/04/2022T02:42:50.000Z,FALSE,Warehouse Mgmt,j.davis@expressl&t.net,,,Josh,Josh Davis,Davis,FALSE,English,Word of mouth,Secondary,(503) 421-4387
+0035h00000pY6JTAA0,0015h000013m9LUAAY,,,12/04/46,(520) 773-9060,(520) 773-9050,Pending,11/04/2022T02:42:50.000Z,FALSE,Administration,jane_gray@uoa.edu,,,Jane,Jane Grey,Grey,FALSE,English,Word of mouth,Primary,(520) 773-4539
+0035h00000pY6JUAA0,0015h000013m9LSAAY,Pat Feinstein,(212) 842-5464,06/04/54,(212) 842-5501,(212) 842-5500,Pending,11/04/2022T02:42:50.000Z,FALSE,Executive Team,asong@uog.com,,,Arthur,Arthur Song,Song,FALSE,English,Public Relations,Secondary,(212) 842-4535
+0035h00000pY6JVAA0,0015h000013m9LVAAY,,,02/11/49,+44 191 4956620,+44 191 4956203,Pending,11/04/2022T02:42:50.000Z,FALSE,Finance,ajames@uog.com,,,Ashley,Ashley James,James,FALSE,English,Public Relations,Primary,+44 191 3456234
+0035h00000pY6JWAA0,0015h000013m9LWAAY,,,04/10/53,(650) 450-8820,(650) 450-8810,Pending,11/04/2022T02:42:50.000Z,FALSE,Executive Team,tripley@uog.com,,,Tom,Tom Ripley,Ripley,FALSE,English,Public Relations,Primary,(650) 345-7636
+0035h00000pY6JXAA0,0015h000013m9LWAAY,,,07/21/1964,(650) 450-8820,(650) 450-8810,Pending,11/04/2022T02:42:50.000Z,FALSE,Production,ldcruz@uog.com,,,Liz,Liz D'Cruz,D'Cruz,FALSE,English,Public Relations,Secondary,(650) 345-6637
+0035h00000pY6JYAA0,0015h000013m9LXAAY,,,12/26/1944,(650) 867-9895,(650) 867-3450,Pending,11/04/2022T02:42:50.000Z,FALSE,Technology,efrank@genepoint.com,,,Edna,Edna Frank,Frank,FALSE,English,Partner,Primary,(650) 867-7686
+0035h00000pY6JZAA0,0015h000013m9LSAAY,Chris Nobel,(212) 842-5428,05/15/1936,(212) 842-5501,(212) 842-5500,Pending,11/04/2022T02:42:50.000Z,FALSE,Finance,agreen@uog.com,,,Avi,Avi Green,Green,FALSE,English,Public Relations,Primary,(212) 842-2383
+0035h00000pY6JaAAK,0015h000013m9LYAAY,,,,,,Pending,11/04/2022T02:42:50.000Z,FALSE,,,,,Siddartha,Siddartha Nedaerk,Nedaerk,FALSE,,,,
+0035h00000pY6JbAAK,0015h000013m9LYAAY,,,,,,Pending,11/04/2022T02:42:50.000Z,FALSE,,,,,Jake,Jake Llorrac,Llorrac,FALSE,,,,
+0035h00000sytjaAAA,0015h000016qqDQAAY,,,05/14/1991,,8582144834,Pending,11/24/2022T00:14:50.000Z,FALSE,,kwilliams@go.com,,,Kim,Kim Williams,Williams,FALSE,,Partner Referral,,
+0035h00000u06czAAA,0015h000016qfTNAAY,,,09/08/69,,8582141013,Pending,11/25/2022T00:42:41.000Z,FALSE,,doeyklown@kurt.com,,,Doey,Doey Klown,Klown,FALSE,,Partner Referral,,8582141013
+0035h00000u06isAAA,0015h000016qfFyAAI,,,07/30/1982,,18582144428,Pending,11/25/2022T01:01:11.000Z,FALSE,Derivatives,freemanmt@tantheta.org,,,Morgan,Morgan Freeman,Freeman,FALSE,,Phone Inquiry,,
+0035h00000u0bZMAAY,0015h000017ObVCAA0,,,,,(408) 326-9000,Pending,11/27/2022T07:08:22.000Z,FALSE,,shellyb@westerntelecom.com,,,Shelly,Shelly Brownell,Brownell,FALSE,,Partner Referral,,
+0035h00000s0pgPAAQ,0015h000016DwH0AAK,,,,,,Pending,11/16/2022T04:12:50.000Z,FALSE,,,,,Amanda,Amanda Lee,Lee,FALSE,,,,
+0035h00000u06QZAAY,0015h000016qooTAAQ,,,11/20/1985,,8582144890,Pending,11/25/2022T00:06:39.000Z,FALSE,,bbrij@capstoneent.com,,,Brij,Brij Bhuvan,Bhuvan,FALSE,,Purchased List,,8582144890
+0035h00000u06QaAAI,0015h000016qfMbAAI,,,08/21/1988,,8582144990,Pending,11/25/2022T00:08:43.000Z,FALSE,,rpatt@derk.com,,,Robert,Robert Patt,Patt,FALSE,,Phone Inquiry,,8582144990
+0035h00000u06QbAAI,0015h000016qfkkAAA,,,02/28/1990,,3672144826,Pending,11/25/2022T00:21:25.000Z,FALSE,,mphil@google.com,,,Morgan,Morgan Phil,Phil,FALSE,,Phone Inquiry,,3672144826
+0035h00000u06dnAAA,0015h000016sA9LAAU,,,09/07/82,,4802144912,Pending,11/25/2022T00:44:26.000Z,FALSE,Cloud Architect,nicolashenry@veritas.com,,,Henry,Henry Nicolas,Nicolas,FALSE,,Purchased List,,
+0035h00000sytkoAAA,0015h000013m9LUAAY,,,11/22/1982,,8581904826,Pending,11/24/2022T00:20:29.000Z,FALSE,Mechanical,braul@uoa.edu,,,Bert,Bert Raul,Raul,FALSE,,Web,,8581904826
+0035h00000u06fjAAA,0015h000016qfpVAAQ,,,12/18/1969,,8012588303,Pending,11/25/2022T00:52:26.000Z,FALSE,Applied Mathematics,josephtrib@gmail.com,,,Joseph,Joseph Tribbiany,Tribbiany,FALSE,,Partner Referral,,
+0035h00000sUNi6AAG,0015h000016qfFyAAI,,,,,8582144890,Pending,11/20/2022T03:31:47.000Z,FALSE,,bmarkel@tantheta.com,,,Beth,Beth Markel,Markel,FALSE,,,,
+0035h00000syvWiAAI,0015h000016s8ZGAAY,,,07/19/1992,,1693564826,Pending,11/24/2022T03:03:04.000Z,FALSE,,jmorey@bieng.com,,,Joe,Joe Morey,Morey,FALSE,,Purchased List,,1693564826
+0035h00000u06hzAAA,0015h000016sA2kAAE,,,02/10/94,,13452144826,Pending,11/25/2022T00:57:29.000Z,FALSE,Aerospace Engineering,belindalm@ucf.edu,,,Belinda,Belinda Lynn,Lynn,FALSE,,Partner Referral,,
+0035h00000u06T3AAI,0015h000016qfsAAAQ,,18582144826,02/14/1979,,8582141254,Pending,11/25/2022T00:11:01.000Z,FALSE,,amandafredz@drivenow.com,,,Amanda,Amanda Fredz,Fredz,FALSE,,,,8582141254
+0035h00000u06foAAA,0015h000016qef2AAA,,,,,85821804826,Pending,11/25/2022T00:52:27.000Z,FALSE,,qigechen@pinelabs.com,,,Qige,Qige Chen,Chen,FALSE,,,,
+0035h00000u06TcAAI,0015h000016qpDDAAY,,,10/20/1964,,8582173902,Pending,11/25/2022T00:12:48.000Z,FALSE,,jsmith@dssmith.com,,,James,James Smith,Smith,FALSE,,Purchased List,,8582173902
+0035h00000u06TdAAI,0015h000016qnf4AAA,,,03/23/1988,,8582144286,Pending,11/25/2022T00:24:26.000Z,FALSE,,whitneyk@init.com,,,Whitney,Whitney Kellogs,Kellogs,FALSE,,Purchased List,,8582144286
+0035h00000s0oX1AAI,0015h000013m9LOAAY,,,,,,Pending,11/16/2022T04:11:28.000Z,FALSE,,,,,Rose,Rose Jackson,Jackson,FALSE,,,,
+0035h00000u0bXzAAI,0015h000017ObSwAAK,,,,,(860) 273-0123,Pending,11/27/2022T07:00:11.000Z,FALSE,,ksynder@tnr.net,,,Kathy,Kathy Snyder,Snyder,FALSE,,Purchased List,,
+0035h00000u0bYxAAI,0015h000017ObUnAAK,,,,,858) 212-9187,Pending,11/27/2022T07:07:07.000Z,FALSE,,barryd@dssmith.com,,,Barry,Barry Drek,Drek,FALSE,,Partner Referral,,858) 212-9187
+0035h00000u0bY0AAI,0015h000017ObSxAAK,,,,,8526944826,Pending,11/27/2022T07:08:11.000Z,FALSE,,avnic@kertfin.com,,,Avni,Avni Chaubey,Chaubey,FALSE,,Purchased List,,8526944826
+0035h00000u0bY1AAI,0015h000017ObSyAAK,,,,,8272144826,Pending,11/27/2022T07:08:43.000Z,FALSE,,tommydang@pinacle.com,,,Tommy,Tommy Dang,Dang,FALSE,,Partner Referral,,8272144826
+0035h00000u06WbAAI,0015h000016qnpSAAQ,,,08/24/1984,,18582894724,Pending,11/25/2022T00:25:29.000Z,FALSE,Marketing,t.bauer@wayup.com,,,Teddy,Teddy Bauer,Bauer,FALSE,,Purchased List,,
+0035h00000u0bXGAAY,0015h000017ObK5AAK,,,,(850) 644-4300,(850) 644-4200,Pending,11/27/2022T06:56:49.000Z,FALSE,,bertha@fcof.net,,,Bertha,Bertha Boxer,Boxer,FALSE,,Web,,
+0035h00000u06UQAAY,0015h000016qfKQAAY,,,,,8582144820,Pending,11/25/2022T00:15:56.000Z,FALSE,,bbryte@finacle.com,,,Blaire,Blaire Bryte,Bryte,FALSE,,Phone Inquiry,,8582144820
+0035h00000u06hfAAA,0015h000016qo68AAA,,,,,8582209826,Pending,11/25/2022T00:56:23.000Z,FALSE,,vchaubey@quotient.com,,,Vardan,Vardan Chaubey,Chaubey,FALSE,,,,
+0035h00000u06ZlAAI,0015h000016qnpSAAQ,,,03/17/1988,,18582897842,Pending,11/25/2022T00:35:09.000Z,FALSE,Sales,tiffanym@wayup.com,,,Tifanny,Tifanny Marshalls,Marshalls,FALSE,,Web,,
+0035h00000s0pIOAAY,0015h000013m9LOAAY,,,,,,Pending,11/16/2022T04:07:08.000Z,FALSE,,,,,Jack,Jack Dawson,Dawson,FALSE,,,,
+0035h00000u0bZ2AAI,0015h000017ObUsAAK,,,,,(847) 262-5000,Pending,11/27/2022T07:07:20.000Z,FALSE,,brenda@cardinal.net,,,Brenda,Brenda Mcclure,Mcclure,FALSE,,Web,,
+0035h00000u0bZ3AAI,0015h000017ObUtAAK,,,,,(033) 452-1299,Pending,11/27/2022T07:08:34.000Z,FALSE,,david@blues.com,,,David,David Monaco,Monaco,FALSE,,Purchased List,,
+0035h00000syteQAAQ,0015h000013m9LTAAY,,,07/12/77,,12852118526,Pending,11/23/2022T23:58:05.000Z,FALSE,,robertd@expresslt.com,,,Robert,Robert Dsouza,Dsouza,FALSE,English,Web,Primary,12852118526
+0035h00000sytf5AAA,0015h000016sA2kAAE,,,05/13/1971,,12852118856,Pending,11/24/2022T00:00:04.000Z,FALSE,ECE,wbart@ucf.edu,,,William,William Bart,Bart,FALSE,,Partner Referral,,12852118856
+0035h00000u06fPAAQ,0015h000016qpMnAAI,,,,,8582118926,Pending,11/25/2022T00:51:01.000Z,FALSE,,kerkdublin@nhs.com,,,Kerk,Kerk Dublin,Dublin,FALSE,,,,
+0035h00000u06evAAA,0015h000016sA0tAAE,,,,,8582127826,Pending,11/25/2022T00:48:17.000Z,FALSE,,niuyix@lenarr.com,,,Yixian,Yixian Niu,Niu,FALSE,,,,
+0035h00000u06ewAAA,0015h000016qnpRAAQ,,,,,858219826,Pending,11/25/2022T00:54:42.000Z,FALSE,,zuyuliao@pletho.com,,,Zuyu,Zuyu Liao,Liao,FALSE,,,,
+0035h00000syvY9AAI,0015h000016qooSAAQ,,,11/04/85,,8581793826,Pending,11/24/2022T03:07:35.000Z,FALSE,,stuartmo@bluespring.com,,,Stuart,Stuart Moskovics,Moskovics,FALSE,,Phone Inquiry,,8581793826
+0035h00000sUNfcAAG,0015h000016qf5AAAQ,,,11/17/2022,,18582144880,Pending,11/20/2022T03:25:21.000Z,FALSE,,jcharter@crowe.com,,,James,James Charter,Charter,FALSE,English,Web,Tertiary,
+0035h00000sythsAAA,0015h000016qnpTAAQ,,,09/25/1984,,8582138206,Pending,11/24/2022T00:07:07.000Z,FALSE,,rpaul@assoc.com,,,Rob,Rob Paul,Paul,FALSE,,Partner Referral,,8582138206
+0035h00000sythtAAA,0015h000016sA89AAE,,,05/08/90,,8389144826,Pending,11/24/2022T00:11:22.000Z,FALSE,,jrodger@gmail.com,,,James,James Rodger,Rodger,FALSE,,,,8389144826
+0035h00000u06UpAAI,0015h000016qeUgAAI,,,09/07/92,,8582144020,Pending,11/25/2022T00:18:04.000Z,FALSE,,jonesh@gbfin.com,,,Jones,Jones Henrick,Henrick,FALSE,,,,8582144020
+0035h00000sUNd0AAG,0015h000016qf5AAAQ,,,,,18582144826,Pending,11/20/2022T03:18:52.000Z,FALSE,,elonm@gmail.com,,,Elon,Elon Musk,Musk,FALSE,English,Web,Primary,18582144821
+0035h00000syth9AAA,0015h000016sA7aAAE,,,,,8582144201,Pending,11/24/2022T00:04:49.000Z,FALSE,,bzain@gmail.com,,,Brinda,Brinda Zain,Zain,FALSE,,Partner Referral,,8582144201
+0035h00000sytdaAAA,0015h000016qfhwAAA,,,11/25/1986,,18582118526,Pending,11/23/2022T23:55:10.000Z,FALSE,,hgreen@jsrfin.com,,,Hailey,Hailey Green,Green,FALSE,,Phone Inquiry,,18582118526
+0035h00000sytfqAAA,0015h000016sA5KAAU,,,09/21/1988,,18582144826,Pending,11/24/2022T00:02:38.000Z,FALSE,Marketing,amandab@jmformd.com,,,Amanda,Amanda Brier,Brier,FALSE,,Other,,18582144826
+0035h00000u06X0AAI,0015h000016qfhvAAA,,,11/14/1955,,8582145926,Pending,11/25/2022T00:26:40.000Z,FALSE,,billk@jdsystems.com,,,Bill,Bill Kris,Kris,FALSE,,Web,,8582145926
+0035h00000syvYsAAI,0015h000016qf5AAAQ,,,,,,Pending,11/24/2022T03:09:59.000Z,FALSE,,,,,Rachel,Rachel Sky,Sky,FALSE,,Purchased List,,8582144830
+0035h00000syvRYAAY,0015h000016qfi0AAA,,,12/24/1980,,16292144826,Pending,11/24/2022T02:59:03.000Z,FALSE,,rickm@alpha.com,,,Rick,Rick Martin,Martin,FALSE,,Phone Inquiry,,16292144826
+0035h00000u06aZAAQ,0015h000016qpVBAAY,,,10/21/1986,,8582141026,Pending,11/25/2022T00:37:08.000Z,FALSE,,yiweiz@jsd.com,,,Yiwei,Yiwei Zhuang,Zhuang,FALSE,,Phone Inquiry,,8582141026
+0035h00000u0bXpAAI,0015h000017ObShAAK,,,,,886-2-25474189,Pending,11/27/2022T06:59:55.000Z,FALSE,,jeffg@jackson.com,,,Jeff,Jeff Glimpse,Glimpse,FALSE,,Phone Inquiry,,
+0035h00000syvRZAAY,0015h000016qooSAAQ,,,,,8232013857,Pending,11/24/2022T03:05:35.000Z,FALSE,,,,,Anuj,Anuj Pandey,Pandey,FALSE,,,,
+0035h00000u0bXkAAI,0015h000017ObScAAK,,,,,(410) 381-2334,Pending,11/27/2022T06:59:41.000Z,FALSE,,likeb@metro.com,,,Mike,Mike Braund,Braund,FALSE,,Purchased List,,
+0035h00000u0bZCAAY,0015h000017ObV7AAK,,,,,2742144826,Pending,11/27/2022T07:07:53.000Z,FALSE,,heatherc@scalables.com,,,Heather,Heather Chichton,Chichton,FALSE,,Purchased List,,2742144826
